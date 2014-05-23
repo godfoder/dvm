@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  exact_value: MyString
+  term_id: 
+  standard_value: MyString
+  accepted: false
+
+two:
+  exact_value: MyString
+  term_id: 
+  standard_value: MyString
+  accepted: false
